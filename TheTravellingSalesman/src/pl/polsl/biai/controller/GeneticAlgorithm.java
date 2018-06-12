@@ -5,9 +5,12 @@ import pl.polsl.biai.domain.SingleTour;
 import pl.polsl.biai.domain.TravelList;
 
 /**
- *
+ * Implementation of genetic algorithm.
+ * 
+ * @author Michał Jakóbczyk
  * @author Marta Miler
  */
+
 public class GeneticAlgorithm {
     
     private final double mutationRate;
