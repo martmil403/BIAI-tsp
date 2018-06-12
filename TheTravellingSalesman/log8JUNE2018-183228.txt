@@ -1,0 +1,14 @@
+New start od the algorithm: 2018-06-08T18:32:28.067
+Cities were opened from file
+-- Operation parameters --
+Number of cities: 1500
+Population size: 500
+Mutation rate: 0.015
+Number of generations: 500
+Operation was repeated 1 time
+Generated new population: false
+1. repeat
+Initial distance: 74917.0
+Result: 61084
+End of the algorithm2018-06-08T18:38:30.414
+

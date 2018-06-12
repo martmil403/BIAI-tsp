@@ -1,0 +1,161 @@
+New start od the algorithm: 2018-05-23T22:10:28.749
+Cities were opened from file
+-- Operation parameters --
+Number of cities: 25
+Population size: 5
+Mutation rate: 0.015
+Number of generations: 100
+Operation was repeated 50 time
+Generated new population: false
+1. repeat
+Initial distance: 1263.0
+Result: 711.0
+2. repeat
+Initial distance: 1263.0
+Result: 673.0
+3. repeat
+Initial distance: 1263.0
+Result: 598.0
+4. repeat
+Initial distance: 1263.0
+Result: 598.0
+5. repeat
+Initial distance: 1263.0
+Result: 592.0
+6. repeat
+Initial distance: 1263.0
+Result: 564.0
+7. repeat
+Initial distance: 1263.0
+Result: 552.0
+8. repeat
+Initial distance: 1263.0
+Result: 588.0
+9. repeat
+Initial distance: 1263.0
+Result: 496.0
+10. repeat
+Initial distance: 1263.0
+Result: 496.0
+11. repeat
+Initial distance: 1263.0
+Result: 493.0
+12. repeat
+Initial distance: 1263.0
+Result: 485.0
+13. repeat
+Initial distance: 1263.0
+Result: 567.0
+14. repeat
+Initial distance: 1263.0
+Result: 553.0
+15. repeat
+Initial distance: 1263.0
+Result: 494.0
+16. repeat
+Initial distance: 1263.0
+Result: 450.0
+17. repeat
+Initial distance: 1263.0
+Result: 450.0
+18. repeat
+Initial distance: 1263.0
+Result: 450.0
+19. repeat
+Initial distance: 1263.0
+Result: 450.0
+20. repeat
+Initial distance: 1263.0
+Result: 450.0
+21. repeat
+Initial distance: 1263.0
+Result: 450.0
+22. repeat
+Initial distance: 1263.0
+Result: 450.0
+23. repeat
+Initial distance: 1263.0
+Result: 450.0
+24. repeat
+Initial distance: 1263.0
+Result: 450.0
+25. repeat
+Initial distance: 1263.0
+Result: 450.0
+26. repeat
+Initial distance: 1263.0
+Result: 511.0
+27. repeat
+Initial distance: 1263.0
+Result: 493.0
+28. repeat
+Initial distance: 1263.0
+Result: 493.0
+29. repeat
+Initial distance: 1263.0
+Result: 493.0
+30. repeat
+Initial distance: 1263.0
+Result: 481.0
+31. repeat
+Initial distance: 1263.0
+Result: 481.0
+32. repeat
+Initial distance: 1263.0
+Result: 481.0
+33. repeat
+Initial distance: 1263.0
+Result: 481.0
+34. repeat
+Initial distance: 1263.0
+Result: 481.0
+35. repeat
+Initial distance: 1263.0
+Result: 481.0
+36. repeat
+Initial distance: 1263.0
+Result: 481.0
+37. repeat
+Initial distance: 1263.0
+Result: 522.0
+38. repeat
+Initial distance: 1263.0
+Result: 485.0
+39. repeat
+Initial distance: 1263.0
+Result: 546.0
+40. repeat
+Initial distance: 1263.0
+Result: 543.0
+41. repeat
+Initial distance: 1263.0
+Result: 487.0
+42. repeat
+Initial distance: 1263.0
+Result: 577.0
+43. repeat
+Initial distance: 1263.0
+Result: 619.0
+44. repeat
+Initial distance: 1263.0
+Result: 591.0
+45. repeat
+Initial distance: 1263.0
+Result: 529.0
+46. repeat
+Initial distance: 1263.0
+Result: 685.0
+47. repeat
+Initial distance: 1263.0
+Result: 646.0
+48. repeat
+Initial distance: 1263.0
+Result: 636.0
+49. repeat
+Initial distance: 1263.0
+Result: 599.0
+50. repeat
+Initial distance: 1263.0
+Result: 575.0
+End of the algorithm2018-05-23T22:10:29.491
+

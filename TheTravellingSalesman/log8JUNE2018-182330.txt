@@ -1,0 +1,115 @@
+New start od the algorithm: 2018-06-08T18:23:30.623
+Cities were opened from file
+-- Operation parameters --
+Number of cities: 1500
+Population size: 500
+Mutation rate: 0.015
+Number of generations: 100
+Operation was repeated 1 time
+Generated new population: false
+	Ἑ
+	ᱧ
+	ᢽ
+	ᚢ
+	ᒐ
+	ᇈ
+	ྠ
+	౳
+		૮
+
+	ਆ
+	ࢱ
+	ݤ
+	؊
+	՘
+	Ӻ
+	ϯ
+	Ο
+	ɱ
+	í
+	
+	￥
+	Ｉ
+	ﹻ
+	ﹺ
+	︸
+	ﷃ
+	ﴗ
+	﮻
+	שׁ
+	歹
+	瘟
+ 	爛
+!	蘆
+"	沈
+#	
+$	
+%	
+&	
+'	
+(	
+)	
+*	
++	
+,	
+-	
+.	
+/	
+0	
+1	
+2	
+3	
+4	
+5	
+6	
+7	
+8	
+9	
+:	
+;	
+<	
+=	
+>	
+?	
+@	
+A	
+B	
+C	
+D	
+E	
+F	
+G	
+H	
+I	
+J	
+K	
+L	
+M	
+N	
+O	
+P	
+Q	
+R	
+S	
+T	
+U	
+V	
+W	
+X	
+Y	
+Z	
+[	
+\	
+]	
+^	
+_	
+`	
+a	
+b	
+c	
+d	
+1. repeat
+Initial distance: 74226.0
+Result: 61121
+End of the algorithm2018-06-08T18:24:45.600
+

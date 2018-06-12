@@ -1,0 +1,161 @@
+New start od the algorithm: 2018-06-11T19:59:08.727
+Cities were randomly generated
+-- Operation parameters --
+Number of cities: 10
+Population size: 100
+Mutation rate: 0.015
+Number of generations: 100
+Operation was repeated 50 time
+Generated new population: false
+1. repeat
+Initial distance: 352.0
+Result: 292
+2. repeat
+Initial distance: 352.0
+Result: 292
+3. repeat
+Initial distance: 352.0
+Result: 292
+4. repeat
+Initial distance: 352.0
+Result: 292
+5. repeat
+Initial distance: 352.0
+Result: 292
+6. repeat
+Initial distance: 352.0
+Result: 292
+7. repeat
+Initial distance: 352.0
+Result: 292
+8. repeat
+Initial distance: 352.0
+Result: 290
+9. repeat
+Initial distance: 352.0
+Result: 290
+10. repeat
+Initial distance: 352.0
+Result: 290
+11. repeat
+Initial distance: 352.0
+Result: 290
+12. repeat
+Initial distance: 352.0
+Result: 290
+13. repeat
+Initial distance: 352.0
+Result: 290
+14. repeat
+Initial distance: 352.0
+Result: 290
+15. repeat
+Initial distance: 352.0
+Result: 290
+16. repeat
+Initial distance: 352.0
+Result: 290
+17. repeat
+Initial distance: 352.0
+Result: 290
+18. repeat
+Initial distance: 352.0
+Result: 290
+19. repeat
+Initial distance: 352.0
+Result: 290
+20. repeat
+Initial distance: 352.0
+Result: 290
+21. repeat
+Initial distance: 352.0
+Result: 290
+22. repeat
+Initial distance: 352.0
+Result: 290
+23. repeat
+Initial distance: 352.0
+Result: 290
+24. repeat
+Initial distance: 352.0
+Result: 290
+25. repeat
+Initial distance: 352.0
+Result: 290
+26. repeat
+Initial distance: 352.0
+Result: 290
+27. repeat
+Initial distance: 352.0
+Result: 290
+28. repeat
+Initial distance: 352.0
+Result: 290
+29. repeat
+Initial distance: 352.0
+Result: 290
+30. repeat
+Initial distance: 352.0
+Result: 290
+31. repeat
+Initial distance: 352.0
+Result: 290
+32. repeat
+Initial distance: 352.0
+Result: 290
+33. repeat
+Initial distance: 352.0
+Result: 290
+34. repeat
+Initial distance: 352.0
+Result: 290
+35. repeat
+Initial distance: 352.0
+Result: 290
+36. repeat
+Initial distance: 352.0
+Result: 290
+37. repeat
+Initial distance: 352.0
+Result: 290
+38. repeat
+Initial distance: 352.0
+Result: 290
+39. repeat
+Initial distance: 352.0
+Result: 290
+40. repeat
+Initial distance: 352.0
+Result: 290
+41. repeat
+Initial distance: 352.0
+Result: 290
+42. repeat
+Initial distance: 352.0
+Result: 290
+43. repeat
+Initial distance: 352.0
+Result: 290
+44. repeat
+Initial distance: 352.0
+Result: 290
+45. repeat
+Initial distance: 352.0
+Result: 290
+46. repeat
+Initial distance: 352.0
+Result: 290
+47. repeat
+Initial distance: 352.0
+Result: 290
+48. repeat
+Initial distance: 352.0
+Result: 290
+49. repeat
+Initial distance: 352.0
+Result: 290
+50. repeat
+Initial distance: 352.0
+Result: 290
+End of the algorithm2018-06-11T19:59:11.456
+

@@ -1,0 +1,61 @@
+New start od the algorithm: 2018-05-24T18:32:47.953
+Cities were opened from file
+-- Operation parameters --
+Number of cities: 50
+Population size: 50
+Mutation rate: 0.015
+Number of generations: 500
+Operation was repeated 50 time
+Generated new population: false
+892.0
+795.0
+794.0
+790.0
+790.0
+790.0
+790.0
+790.0
+790.0
+790.0
+790.0
+790.0
+773.0
+759.0
+759.0
+759.0
+759.0
+735.0
+731.0
+724.0
+713.0
+713.0
+713.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+706.0
+End of the algorithm2018-05-24T18:32:58.027
+

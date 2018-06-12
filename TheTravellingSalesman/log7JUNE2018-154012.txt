@@ -1,0 +1,158 @@
+New start od the algorithm: 2018-06-07T15:40:12.740
+Cities were null
+-- Operation parameters --
+Number of cities: 20
+Population size: 100
+Mutation rate: 0.015
+Number of generations: 100
+Operation was repeated 49 time
+Generated new population: false
+1. repeat
+Initial distance: 815.0
+Result: 404
+2. repeat
+Initial distance: 815.0
+Result: 404
+3. repeat
+Initial distance: 815.0
+Result: 353
+4. repeat
+Initial distance: 815.0
+Result: 353
+5. repeat
+Initial distance: 815.0
+Result: 353
+6. repeat
+Initial distance: 815.0
+Result: 353
+7. repeat
+Initial distance: 815.0
+Result: 353
+8. repeat
+Initial distance: 815.0
+Result: 353
+9. repeat
+Initial distance: 815.0
+Result: 353
+10. repeat
+Initial distance: 815.0
+Result: 353
+11. repeat
+Initial distance: 815.0
+Result: 353
+12. repeat
+Initial distance: 815.0
+Result: 353
+13. repeat
+Initial distance: 815.0
+Result: 353
+14. repeat
+Initial distance: 815.0
+Result: 353
+15. repeat
+Initial distance: 815.0
+Result: 353
+16. repeat
+Initial distance: 815.0
+Result: 353
+17. repeat
+Initial distance: 815.0
+Result: 353
+18. repeat
+Initial distance: 815.0
+Result: 353
+19. repeat
+Initial distance: 815.0
+Result: 353
+20. repeat
+Initial distance: 815.0
+Result: 353
+21. repeat
+Initial distance: 815.0
+Result: 353
+22. repeat
+Initial distance: 815.0
+Result: 353
+23. repeat
+Initial distance: 815.0
+Result: 353
+24. repeat
+Initial distance: 815.0
+Result: 353
+25. repeat
+Initial distance: 815.0
+Result: 353
+26. repeat
+Initial distance: 815.0
+Result: 353
+27. repeat
+Initial distance: 815.0
+Result: 353
+28. repeat
+Initial distance: 815.0
+Result: 353
+29. repeat
+Initial distance: 815.0
+Result: 353
+30. repeat
+Initial distance: 815.0
+Result: 353
+31. repeat
+Initial distance: 815.0
+Result: 353
+32. repeat
+Initial distance: 815.0
+Result: 353
+33. repeat
+Initial distance: 815.0
+Result: 353
+34. repeat
+Initial distance: 815.0
+Result: 353
+35. repeat
+Initial distance: 815.0
+Result: 353
+36. repeat
+Initial distance: 815.0
+Result: 353
+37. repeat
+Initial distance: 815.0
+Result: 353
+38. repeat
+Initial distance: 815.0
+Result: 353
+39. repeat
+Initial distance: 815.0
+Result: 353
+40. repeat
+Initial distance: 815.0
+Result: 353
+41. repeat
+Initial distance: 815.0
+Result: 353
+42. repeat
+Initial distance: 815.0
+Result: 353
+43. repeat
+Initial distance: 815.0
+Result: 353
+44. repeat
+Initial distance: 815.0
+Result: 353
+45. repeat
+Initial distance: 815.0
+Result: 353
+46. repeat
+Initial distance: 815.0
+Result: 353
+47. repeat
+Initial distance: 815.0
+Result: 353
+48. repeat
+Initial distance: 815.0
+Result: 353
+49. repeat
+Initial distance: 815.0
+Result: 353
+End of the algorithm2018-06-07T15:40:14.068
+

@@ -1,0 +1,14 @@
+New start od the algorithm: 2018-06-11T20:29:45.002
+Cities were randomly generated
+-- Operation parameters --
+Number of cities: 1500
+Population size: 10000
+Mutation rate: 0.015
+Number of generations: 500
+Operation was repeated 1 time
+Generated new population: false
+1. repeat
+Initial distance: 75274.0
+Result: 57061
+End of the algorithm2018-06-11T22:36:07.798
+

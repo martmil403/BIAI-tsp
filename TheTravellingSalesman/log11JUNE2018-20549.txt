@@ -1,0 +1,161 @@
+New start od the algorithm: 2018-06-11T20:05:49.513
+Cities were randomly generated
+-- Operation parameters --
+Number of cities: 50
+Population size: 500
+Mutation rate: 0.015
+Number of generations: 100
+Operation was repeated 50 time
+Generated new population: false
+1. repeat
+Initial distance: 2016.0
+Result: 764
+2. repeat
+Initial distance: 2016.0
+Result: 764
+3. repeat
+Initial distance: 2016.0
+Result: 747
+4. repeat
+Initial distance: 2016.0
+Result: 732
+5. repeat
+Initial distance: 2016.0
+Result: 727
+6. repeat
+Initial distance: 2016.0
+Result: 727
+7. repeat
+Initial distance: 2016.0
+Result: 727
+8. repeat
+Initial distance: 2016.0
+Result: 715
+9. repeat
+Initial distance: 2016.0
+Result: 715
+10. repeat
+Initial distance: 2016.0
+Result: 715
+11. repeat
+Initial distance: 2016.0
+Result: 715
+12. repeat
+Initial distance: 2016.0
+Result: 715
+13. repeat
+Initial distance: 2016.0
+Result: 715
+14. repeat
+Initial distance: 2016.0
+Result: 715
+15. repeat
+Initial distance: 2016.0
+Result: 715
+16. repeat
+Initial distance: 2016.0
+Result: 715
+17. repeat
+Initial distance: 2016.0
+Result: 715
+18. repeat
+Initial distance: 2016.0
+Result: 715
+19. repeat
+Initial distance: 2016.0
+Result: 715
+20. repeat
+Initial distance: 2016.0
+Result: 715
+21. repeat
+Initial distance: 2016.0
+Result: 715
+22. repeat
+Initial distance: 2016.0
+Result: 715
+23. repeat
+Initial distance: 2016.0
+Result: 715
+24. repeat
+Initial distance: 2016.0
+Result: 715
+25. repeat
+Initial distance: 2016.0
+Result: 715
+26. repeat
+Initial distance: 2016.0
+Result: 715
+27. repeat
+Initial distance: 2016.0
+Result: 715
+28. repeat
+Initial distance: 2016.0
+Result: 715
+29. repeat
+Initial distance: 2016.0
+Result: 715
+30. repeat
+Initial distance: 2016.0
+Result: 715
+31. repeat
+Initial distance: 2016.0
+Result: 715
+32. repeat
+Initial distance: 2016.0
+Result: 715
+33. repeat
+Initial distance: 2016.0
+Result: 715
+34. repeat
+Initial distance: 2016.0
+Result: 715
+35. repeat
+Initial distance: 2016.0
+Result: 715
+36. repeat
+Initial distance: 2016.0
+Result: 715
+37. repeat
+Initial distance: 2016.0
+Result: 715
+38. repeat
+Initial distance: 2016.0
+Result: 715
+39. repeat
+Initial distance: 2016.0
+Result: 715
+40. repeat
+Initial distance: 2016.0
+Result: 715
+41. repeat
+Initial distance: 2016.0
+Result: 715
+42. repeat
+Initial distance: 2016.0
+Result: 715
+43. repeat
+Initial distance: 2016.0
+Result: 715
+44. repeat
+Initial distance: 2016.0
+Result: 715
+45. repeat
+Initial distance: 2016.0
+Result: 715
+46. repeat
+Initial distance: 2016.0
+Result: 715
+47. repeat
+Initial distance: 2016.0
+Result: 715
+48. repeat
+Initial distance: 2016.0
+Result: 715
+49. repeat
+Initial distance: 2016.0
+Result: 715
+50. repeat
+Initial distance: 2016.0
+Result: 715
+End of the algorithm2018-06-11T20:06:02.474
+
